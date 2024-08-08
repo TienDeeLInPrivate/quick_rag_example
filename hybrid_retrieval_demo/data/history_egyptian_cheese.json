@@ -1,0 +1,3082 @@
+{
+  "_hash": "3de7fa6aa648213afbe50a8e49206bd0",
+  "_name": "History, Processing and Quality Enhancement of  Traditional Egyptian Kariesh Cheese: A Review",
+  "_s3_data": {
+    "pdf-document": [
+      {
+        "mime": "application/pdf",
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/original.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/original.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85615bbedfd42e014c3ed0523417e7f1b4e007ff67c583a1c74a7777abb870dc",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/original.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85615bbedfd42e014c3ed0523417e7f1b4e007ff67c583a1c74a7777abb870dc"
+      }
+    ],
+    "pdf-images": [
+      {
+        "mime": "application/png",
+        "page": 1,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2afb9326a0b2c9a1e1c04fd8e14db9108c27906a5abc18c4398c8295a96a2517",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2afb9326a0b2c9a1e1c04fd8e14db9108c27906a5abc18c4398c8295a96a2517"
+      },
+      {
+        "mime": "application/png",
+        "page": 2,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3407757edb8ac81ba782b95b540f024cce7acc76247c1830da87384ab817c0bb",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3407757edb8ac81ba782b95b540f024cce7acc76247c1830da87384ab817c0bb"
+      },
+      {
+        "mime": "application/png",
+        "page": 3,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a2ece8cb20d2d7161f624eeaf0e98f1e842f55b81d1f699bbd02734c3863b171",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a2ece8cb20d2d7161f624eeaf0e98f1e842f55b81d1f699bbd02734c3863b171"
+      },
+      {
+        "mime": "application/png",
+        "page": 4,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=659272abbe158c58ded79de83920acd7ae8a12610c986a0a399a8cd55e1f90c7",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=659272abbe158c58ded79de83920acd7ae8a12610c986a0a399a8cd55e1f90c7"
+      },
+      {
+        "mime": "application/png",
+        "page": 5,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e709c3118da53f8ca4de46a307b9d3ee993f144b5f0ec09ef6829d9b3442f6ad",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e709c3118da53f8ca4de46a307b9d3ee993f144b5f0ec09ef6829d9b3442f6ad"
+      },
+      {
+        "mime": "application/png",
+        "page": 6,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.png",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=10b87feceb85abd72b7524b30d0d699058f0d3feb325f95cd96bb2e0c52ba0b8",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=10b87feceb85abd72b7524b30d0d699058f0d3feb325f95cd96bb2e0c52ba0b8"
+      }
+    ],
+    "pdf-pages": [
+      {
+        "mime": "application/pdf",
+        "page": 1,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=08dc1604e84e85f25defa7dd095f206fc89c621034997d00abd45b7ce69244bb",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=08dc1604e84e85f25defa7dd095f206fc89c621034997d00abd45b7ce69244bb"
+      },
+      {
+        "mime": "application/pdf",
+        "page": 2,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=28020b7ffe6f9608c5dd93cd05e6defd2b299d5b61c69f228a3cf37046445fd5",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=28020b7ffe6f9608c5dd93cd05e6defd2b299d5b61c69f228a3cf37046445fd5"
+      },
+      {
+        "mime": "application/pdf",
+        "page": 3,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f05c7845e96704ee94f3a95f59dedb8299b881ecadf4cab03e90f0d0371c216",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f05c7845e96704ee94f3a95f59dedb8299b881ecadf4cab03e90f0d0371c216"
+      },
+      {
+        "mime": "application/pdf",
+        "page": 4,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b7e1ba419a11445fb65f8a161cfe3b9b2f2b9944f7df11e60f7a0f47b515f542",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6ce1f692508a73ae65328b0cdbc6aaf2751fcc842fe5e8901aaf10a07242ccea"
+      },
+      {
+        "mime": "application/pdf",
+        "page": 5,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd1fcb7e23af5bb47080bd441b51b0b68483c02056c61191929238aef975a027",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162922Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd1fcb7e23af5bb47080bd441b51b0b68483c02056c61191929238aef975a027"
+      },
+      {
+        "mime": "application/pdf",
+        "page": 6,
+        "path": "/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.pdf",
+        "public_url": "https://deepsearch-experience.res.ibm.com/cos//dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=79b503c33776fbfc5adeb0aa7a00371618b9936a684fbbd5aa9c9ae73dfd5f36",
+        "url": "https://s3.direct.us-south.cloud-object-storage.appdomain.cloud/dp-prod-deepsearch-experience-ccs-projs/results/0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362/pages/page_6.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=140d6234321c48099985ba5d0c77fec6%2F20240530%2Fus-south-standard%2Fs3%2Faws4_request&X-Amz-Date=20240530T162923Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=79b503c33776fbfc5adeb0aa7a00371618b9936a684fbbd5aa9c9ae73dfd5f36"
+      }
+    ]
+  },
+  "_type": "pdf-document",
+  "bitmaps": [],
+  "conversion_settings": {
+    "model_pipeline": {
+      "clusters": [
+        {
+          "name": "LayoutSegmentationModel",
+          "type": "LayoutSegmentationModel",
+          "version": "NA"
+        }
+      ],
+      "normalization": [],
+      "page": [],
+      "tables": [
+        {
+          "name": "TableStructureModel",
+          "type": "TableStructureModel",
+          "version": "NA"
+        }
+      ]
+    }
+  },
+  "description": {
+    "abstract": "",
+    "affiliations": "",
+    "authors": "",
+    "title": "History, Processing and Quality Enhancement of  Traditional Egyptian Kariesh Cheese: A Review"
+  },
+  "equations": [],
+  "figures": [],
+  "file-info": {
+    "#-pages": 6,
+    "document-hash": "0e0c79f57abd17f72a939d3bc21032ea4f3517894ffa78a051eae8d575849362",
+    "filename": "history-processing-and-quality-enhanceme.pdf",
+    "page-hashes": [
+      {
+        "hash": "93fc58d75e54696759e20001abe8fabc6eceb107c0fafd9bb9ed37c301db52d1",
+        "model": "model",
+        "page": 1
+      },
+      {
+        "hash": "e55ef84aad8a373745be5f295971fbe9eb784793027d200c1c8a49fbbc3115e2",
+        "model": "model",
+        "page": 2
+      },
+      {
+        "hash": "6dedc02523ae89a4569ea5368be56cdc7202004282ad0e96d851f220a714740d",
+        "model": "model",
+        "page": 3
+      },
+      {
+        "hash": "a7607333bf9bb0e638ee27a0f4afae4a55984bee8d4662d42fe6cd2c5118a504",
+        "model": "model",
+        "page": 4
+      },
+      {
+        "hash": "396650121d1283a0cd9259dec39a80393e5b3260b4526269c7620376a6e77018",
+        "model": "model",
+        "page": 5
+      },
+      {
+        "hash": "3aecf0dad72e0f63c22d5052ed84403868facd0b75a99c068b598bcbf480988f",
+        "model": "model",
+        "page": 6
+      }
+    ]
+  },
+  "footnotes": [],
+  "main-text": [
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            56.37922668457031, 747.259033203125, 242.3644256591797,
+            770.4649658203125
+          ],
+          "page": 1,
+          "span": [0, 74]
+        }
+      ],
+      "text": "Food Science and Technology 1(1): 1-6, 2013  DOI: 10.13189/fst.2013.010101",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            465.7431640625, 759.6773681640625, 555.2081298828125,
+            769.8722534179688
+          ],
+          "page": 1,
+          "span": [0, 20]
+        }
+      ],
+      "text": "http://www.hrpub.org",
+      "type": "page-header"
+    },
+    {
+      "name": "title",
+      "prov": [
+        {
+          "bbox": [
+            96.35993957519531, 672.9548950195312, 518.0455322265625,
+            718.56689453125
+          ],
+          "page": 1,
+          "span": [0, 92]
+        }
+      ],
+      "text": "History, Processing and Quality Enhancement of Traditional Egyptian Kariesh Cheese: A Review",
+      "type": "title"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            199.03866577148438, 636.5986328125, 412.43963623046875,
+            647.7938232421875
+          ],
+          "page": 1,
+          "span": [0, 46]
+        }
+      ],
+      "text": "Aldo Todaro$^{*}$, Fady A. Adly, Ola A.H. Omar",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            113.27887725830078, 599.9210815429688, 498.32659912109375,
+            619.0860595703125
+          ],
+          "page": 1,
+          "span": [0, 149]
+        }
+      ],
+      "text": "Department of Agricultural and Forestry, University of Palermo, Viale delle Scienze, 90128 Palermo, Italy *Corresponding Author: aldo.todaro@unipa.it",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            55.862548828125, 565.8744506835938, 330.8084716796875,
+            576.3120727539062
+          ],
+          "page": 1,
+          "span": [0, 65]
+        }
+      ],
+      "text": "Copyright © 2013 Horizon Research Publishing All rights reserved.",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.19886779785156, 238.8680419921875, 304.95599365234375,
+            550.4039916992188
+          ],
+          "page": 1,
+          "span": [0, 1424]
+        }
+      ],
+      "text": "Abstract Kariesh is a soft acid cheese made from skimmed cow's milk, buffalo milk or buttermilk from sour cream; apparently it is made only on farmsteads. It is considered to be one of the most important traditional Egyptian dairy products, commonly made in the Egyptian countryside, especially in small villages, as low-income people such as farmers use Kariesh cheese in their diet owing to its high protein content, low fat and price. Therefore, nowadays, Kariesh cheese is a promising food in the avoidance of health problems associated with fat, particularly for old people. The aim of this article is to provide a wide range of information on Egyptian Kariesh cheese starting with a brief description of its historical background, origin and manufacturing process, within both traditional and modern production methods. Also, this study shall outline Kariesh's chemical, nutritional and microbiological evaluation in order to evaluate protein, fat and carbohydrates content considering consumer health and acceptance. Consequently, this review will highlight recent innovations in dealing with Kariesh cheese flavour enhancement using lactic acid bacteria; textural properties improved by the addition of hydrocolloid and using some natural antimicrobial effects of pepper, parsley and dill which subject to reach top adequate cheese quality and quantity that meet customer satisfaction in contemporary modern markets.",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            55.869319915771484, 207.81817626953125, 300.3213806152344,
+            230.60446166992188
+          ],
+          "page": 1,
+          "span": [0, 92]
+        }
+      ],
+      "text": "Keywords Kariesh Cheese, Traditional, Industrial, Health Benefit, Microbiological Evaluation",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            56.52373504638672, 149.9058837890625, 150.38519287109375,
+            163.22486877441406
+          ],
+          "page": 1,
+          "span": [0, 15]
+        }
+      ],
+      "text": "1. Introduction",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.334938049316406, 57.8553466796875, 301.75311279296875,
+            139.6320343017578
+          ],
+          "page": 1,
+          "span": [0, 408]
+        }
+      ],
+      "text": "Cheese plays an important role in the Egyptian diet, and many people eat a certain amount of cheese with at least one meal a day; most of the cheese is consumed either directly or with bread. It is reported that, since the Pharaonic era, from 3200 to 332 B.C., Egypt has been considered to be one of the most important leading countries in the manufacturing process of dairy products. It was developed in the",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.0875549316406, 212.41815185546875, 559.1109008789062,
+            549.1768188476562
+          ],
+          "page": 1,
+          "span": [0, 1597]
+        }
+      ],
+      "text": "Greco-Roman period from 332 to 641 A.C., and then passing through Arab Islamic period 641 A.C. until the present. Cheese making is a well-established tradition in Egypt: about eight types of cheeses are produced in Egypt, all of which originate from, and are still produced in, rural areas. Domiati is made industrially at milk plant level, and it is a white, pickled, soft and highly salted cheese [1]. The fat and SNF (Solid Not Fats) contents were standardized at 5 and 10% respectively [2]. Karish or Kariesh cheese is fresh and contains relatively low in salt [1]. Mish cheese is a soft pickled cheese without rind. Its body is yellowish to brown and has a close texture without eyeholes. It has a sharp and salty taste. Its shape is cylindrical (8-10 cm and 15 cm diameter) with a ridged surface [3]. Ras is a hard bacterially-ripened cheese; Brinza is a highly-salted cheese, Feta cheese of Russian origin and a small amount of Kashkaval are also produced and also other types are included as Domty (double-cream white fresh low salt cheese). Kariesh cheese is made from defatted milk (buffalo or cow milk or a mixture of both). Kariesh cheese contains most of the skim milk constituents including protein, a small amount of sugar, some water, soluble vitamins and most of calcium and phosphorus. The quality and composition of Kariesh cheese may vary considerably due to such factors as the quality and composition of the clotted skim milk, the method of manufacture, the time required to complete the whey drain, the quality of salt added and the method of handling finished cheese [4-9].",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            310.5303649902344, 165.66937255859375, 531.2279052734375,
+            191.78076171875
+          ],
+          "page": 1,
+          "span": [0, 42]
+        }
+      ],
+      "text": "2. Historical Background of Kariesh Cheese",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.2721862792969, 55.69146728515625, 558.4610595703125,
+            159.42771911621094
+          ],
+          "page": 1,
+          "span": [0, 513]
+        }
+      ],
+      "text": "The presence of earthenware pots from 3200 B.C. to 332 B.C., tell us that kariesh cheese origin goes back to the Pharaonic period; assessed to what have been found in the Pyramids when they were first opened. Also, on a matmade of a type of reed, Juncus acutus, which is commonly used for the whey drain of Kariesh cheese and the earthenware pots Matrad or Shalia, Ballas or Zallas, Zeer and Barany and Kerbah (for butter making), were found in the tombs of the Greco-Roman Period (332 B.C-641 A.D.), near Sanoris",
+      "type": "paragraph"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            55.650489807128906, 760.7886962890625, 63.45308303833008,
+            770.64599609375
+          ],
+          "page": 2,
+          "span": [0, 1]
+        }
+      ],
+      "text": "2",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            131.79978942871094, 760.9835205078125, 484.41912841796875,
+            770.64599609375
+          ],
+          "page": 2,
+          "span": [0, 92]
+        }
+      ],
+      "text": "History, Processing and Quality Enhancement of Traditional Egyptian Kariesh Cheese: A Review",
+      "type": "page-header"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.19112014770508, 484.5242919921875, 303.5972595214844,
+            729.312255859375
+          ],
+          "page": 2,
+          "span": [0, 1175]
+        }
+      ],
+      "text": "indicate that the art of the primitive dairy industry to produce Laban Reyeb, Laban Khad, Laban Zeer, Kariesh cheese, Mish cheese, Kishk and Al-Samn was known by the Ancient Egyptians [7,8, 11-13]. After that, during the Egyptian, Arab Islamic periods (641 A.D until now), the manufacturing process of the Egyptian dairy products was well developed, and the modern automation processing took place in the large cities in both, lower and upper Egyptian governorates. The manufacturing process of the traditional dairy products in five frontier governorates must be intensive and is fully investigated, because it has not been previously studied [7, 8, 11]. The mammals whose milk is normally used for the manufacturing of the Egyptian dairy products are: buffalo (Bubalusbubalis) 63.5%, cow (Bos Taurus) 35.0%, sheep (Ovis Aries) 1.0%, goat (Capra hircus), 0.5% and the one hump camel (Arabian camel) (Camelus dromedaries). Very small amounts of camel milk are also produced [14]. It is believed that, buffalo, sheep, goat, and camel were introduced to Egypt since the Arab Islamic period (641. A.C.), while the cow is very well known in Egypt since the Pharaonic period [15].",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            56.42351531982422, 437.9825439453125, 301.538330078125,
+            463.7052917480469
+          ],
+          "page": 2,
+          "span": [0, 45]
+        }
+      ],
+      "text": "3. Farm-scale Manufacturing of Kariesh Cheese",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.47292709350586, 50.90472412109375, 303.489013671875,
+            432.43670654296875
+          ],
+          "page": 2,
+          "span": [0, 1983]
+        }
+      ],
+      "text": "Kariesh cheese is made from defatted or skims cow or buffalo milk, or a mixture of both. Cow or buffalo are milked directly into special earthenware pots known as shalia, which are kept undisturbed in a suitable place to allow the fat to rise to the surface forming a cream layer (which is produced within 24-36 hours during the summer and two or three days during winter) and the partly skimmed milk sours and clots. Then the cream layer is removed, and the curd is poured onto a mat which is tied and hung with its contents, to allow the whey drain. This process of squeezing takes two or three days or until the desired texture of the cheese is obtained. Finally, the cheese is cut into suitable pieces, and salted cheese is left for a few hours on the mat till no more whey drains out, then it is ready to be consumed as fresh cheese. The shelf-life of the fresh cheese is between one and two weeks, while if it is pickled in brine earthenware pots; it keeps for up to a year [1, 4, 16]. Kariesh is also produced from the fermented milk, Laban Khad, or it is partially dehydrated variant, Laban Zeer (dehydrated during storage in porous earthenware jars through which water evaporates). Laban Khad is produced by fermenting milk in skin bags; after the milk has coagulated, the bags are shaken to gather the fat, which is removed, leaving behind Laban Khad in the bags. Apparently, rennet may be used to coagulate the milk in cold weather. Another technique is also used: coagulation of the blend of milk /buttermilk occurs naturally in 1-3 days. The coagulum is ladled onto mats (shanda) and the curd is left undisturbed for several hours: a small quantity of salt is sprinkled when the curd is firm enough. The mat, together with the curd, is rolled to facilitate wheying off. The curd is never pressed. This long cylindrical cheese is cut into pieces of equal size. If pickled in brine in earthenware pots, it keeps for up to a year: if it is intended for consumption as fresh",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.612060546875, 719.6573486328125, 456.79327392578125,
+            729.4290771484375
+          ],
+          "page": 2,
+          "span": [0, 39]
+        }
+      ],
+      "text": "cheese, its shelf life is 1 to 2 weeks.",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            310.82666015625, 670.8529052734375, 532.4318237304688,
+            696.9874877929688
+          ],
+          "page": 2,
+          "span": [0, 47]
+        }
+      ],
+      "text": "4. Kariesh Processing-Current and Future Trends",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.8296203613281, 50.2474365234375, 559.3502197265625,
+            662.0260009765625
+          ],
+          "page": 2,
+          "span": [0, 2886]
+        }
+      ],
+      "text": "Increasing demand has lead to the commercial production of Kariesh cheese which, under such conditions, is frequently made from pasteurized and/or homogenized milk or reconstituted milk, using Lactobacillus bulgaricus as the starter and usually with rennet (3 ml/100 kg) rather than acid as coagulant. Another technique is also used; coagulation of the blend of milk/buttermilk occurs naturally in 1-3 days. The coagulum is ladled onto mats (shanda) and the curd is left undisturbed for several hours; a small quantity of salt is sprinkled when the curd is firm enough. The mat, together with the curd, is rolled to facilitate wheying off. The curd is never pressed, and this long, cylindrical cheese is cut into pieces of equal size [1]. In large scale factories, Kariesh Cheese is manufactured from partially or whole skimmed milk. The percentage of fats cannot be more than 0.1-0.5%, depending on the quality of the separator and provide favourable conditions not to leak any percentage of milk fat in the sorting. Kariesh cheese manufacturing in large scale production, is made by filtration of fresh milk, pasteurization at temperature 75 °C for 15 seconds and then cooling to the point (37-40 °C). In order to eliminate microbes that cause disease or defects and the corruption of the product, it is recommended that the addition of the first active lactic acid bacteria from a rate of 3-5% of the weight of milk following Leaving the basin without movement while maintaining the temperature of the milk inside for the length of this process with excellent coverage to prevent atmosphere contamination. After fully solidifying, which may take 5-7 hours; the cheese is transferred from the clot to the mat and covered with gauze. During the packaging template, the Kariesh is slated to a rate of 5-7% depending on the consumer request, and then it's well covered with gauze. Moreover, after four hours it gets sealed with a wooden cover; then after another hour, Kariesh is added an amount of weight gradually increasing (in order to regulate the disposal of whey) until the rate is up to one third the weight of the clot. If moisture is still high after 24 to 36 hours of weight and some test clot remains, more gravity is placed again for several hours. At optimum moisture content, the Kariesh is cut into cubes, weighed to calculate the dressing and packaged in containers suitable for fresh consumption. Usually this process takes a long time in the industry scale whoever it can be reduced by using one of two ways: increase the amount of starter used to 10% instead of 5%, and this gives to the cheese acidity somehow high for the previous method. After the addition of starter (3-5%) on the appropriate degree of activity by about half an hour to an hour, is added very few standard rennet about 2-5 cm per 100 kg. Recently, the process of ultrafiltration has been used for",
+      "type": "paragraph"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            221.40289306640625, 760.9908447265625, 389.36029052734375,
+            770.64599609375
+          ],
+          "page": 3,
+          "span": [0, 43]
+        }
+      ],
+      "text": "Food Science and Technology 1(1): 1-6, 2013",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            546.6340942382812, 760.8856811523438, 554.9781494140625,
+            770.64599609375
+          ],
+          "page": 3,
+          "span": [0, 1]
+        }
+      ],
+      "text": "3",
+      "type": "page-header"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.11439514160156, 718.484619140625, 188.48989868164062,
+            728.5923461914062
+          ],
+          "page": 3,
+          "span": [0, 31]
+        }
+      ],
+      "text": "making Kariesh cheese [17, 18].",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            56.602813720703125, 671.8479614257812, 276.7445983886719,
+            697.8250122070312
+          ],
+          "page": 3,
+          "span": [0, 58]
+        }
+      ],
+      "text": "5. Physical and Chemical Characteristics of Kariesh Cheese",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.4237174987793, 583.48876953125, 304.83624267578125,
+            665.6490478515625
+          ],
+          "page": 3,
+          "span": [0, 366]
+        }
+      ],
+      "text": "Various factors affect the chemical composition and microstructure of Kariesh cheese like: type and pre-treatment of the milk, season of milk production, micro flora of the cheese, starter addition, type of coagulant used, additives in the cheese milk, storage time and temperature. The composition of Kariesh cheese is 16.70% protein, 3.98% sugar and 0.1% fat [19].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.27663040161133, 283.82720947265625, 304.93280029296875,
+            582.2257690429688
+          ],
+          "page": 3,
+          "span": [0, 1341]
+        }
+      ],
+      "text": "A lot of studies have proved that Kariesh cheese has the highest protein content (19.99±1.32 g/100g) among Egyptian cheeses. In regard to Double cream cheese, it has the lowest protein content (7.79±0.78 g/100g) meanwhile double cream cheese has the highest fat content (24.56±1.78 g/100g) while kariesh cheese has the lowest fat content (3.87±0.97 g/100g), and it is also reported that kariesh cheese has the highest moisture content with the lowest ash content (68.97±1.86 and 1.81±0.47 g/100g respectively). Kariesh cheese has a higher content of calcium and phosphorous (641.1±49.21 mg/100g, 431.18±37.21 mg/100g respectively) than the remaining types of cheese; as calcium and phosphorous content of Kariesh cheese, is almost the double content of the double cream cheese [20]. It is reported that average values of vitamin B1 and vitamin B2 in fresh Kariesh cheese were 0.06 mg/100g and 0.34 mg/100g respectively [17]. Mean vitamin levels in Kariesh cheese samples from Alexandria markets were (ug/100g): niacin 34.34, biotin 1.83, vitamin B12 0.15 and folic acid 3.10 [21]. Regarding the cheese texture, several hydrocolloids were used. Hydrocolloids (commercial pectin, citrus pectin or carboxymethylcellulose) addition to positive effect on its chemical composition, yield, rheological and sensory characteristics. Recently, studies",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.8240661621094, 634.7308959960938, 558.1175537109375,
+            729.01123046875
+          ],
+          "page": 3,
+          "span": [0, 420]
+        }
+      ],
+      "text": "revealed that the addition of hydrocolloid increased moisture content and yield values of Kariesh cheese compared with controlled one. Low-fat cheeses such as Kariesh cheese reduced fat effects on its texture. Much research has been conducted to improve the texture of Kariesh cheese; most of them were designed to modify conventional cheese making technologies to increase moisture content, which improves texture [22].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.90350341796875, 442.5663146972656, 558.9447021484375,
+            632.9963989257812
+          ],
+          "page": 3,
+          "span": [0, 861]
+        }
+      ],
+      "text": "Protein, salt and ash content, decreased with increasing hydrocolloids levels. Rheological characteristics (hardness, adhesiveness, springiness, cohesiveness, gumminess, chewiness, resilience) were significantly lower in cheeses made with hydrocolloids than cheese made without hydrocolloids. Kariesh cheese made with 0.4% w/w commercial pectin and 0.6% w/w carboxymethyl cellulose, recorded the highest scores for sensory attributes [19]. The overall quality evaluation showed that it was possible to produce high desired soft and easy melt Kariesh, using citrus pectin or carboxymethyl cellulose. Increasing of Kariesh cheese yield may be occurred by water holding of pectin and carboxymethyl cellulose. Therefore, it is recommended to use 0.4% commercial pectin or 0.6% carboxymethyl cellulose to improve textural properties of low-fat soft (Kariesh) cheese.",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            310.79541015625, 406.719970703125, 520.23388671875,
+            420.3774719238281
+          ],
+          "page": 3,
+          "span": [0, 33]
+        }
+      ],
+      "text": "6. Microbiology of Kariesh Cheese",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.62968444824219, 307.4552917480469, 384.3688659667969,
+            320.5228271484375
+          ],
+          "page": 3,
+          "span": [0, 59]
+        }
+      ],
+      "text": "Egyptian Kariesh cheese at 0.2, 0.4 and 0.6% (w/ w) plays a",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.63336181640625, 291.65228271484375, 559.0842895507812,
+            397.86474609375
+          ],
+          "page": 3,
+          "span": [0, 508]
+        }
+      ],
+      "text": "The Egyptian standards for Kariesh cheese No.1008/2000 mentioned no account on the acceptable level of total bacterial count, but they obligate the pasteurization or any equivalent heat treatment of the cheese milk with the addition of powerful starter culture. It indicates that the total coliforms are less than 10 CFU/g; E. coli absent in 1 g, S. aureus (coagulate-positive) absent in 1 g, L. monocytogenes absent in 1 g, Salmonella and other pathogens absent in 25 g, yeasts and molds less than 10 CFU/g.",
+      "type": "paragraph"
+    },
+    {
+      "name": "caption",
+      "prov": [
+        {
+          "bbox": [
+            153.6833953857422, 261.60321044921875, 457.04803466796875,
+            270.74798583984375
+          ],
+          "page": 3,
+          "span": [0, 86]
+        }
+      ],
+      "text": "Table 1. Chemical composition (g/100g) of some soft Egyptian cheese (M=mean; R=range).",
+      "type": "caption"
+    },
+    { "__ref": "#/tables/0", "name": "table", "type": "table" },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            56.04151916503906, 761.0969848632812, 63.45308303833008,
+            770.64599609375
+          ],
+          "page": 4,
+          "span": [0, 1]
+        }
+      ],
+      "text": "4",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            131.79978942871094, 760.9095458984375, 484.41912841796875,
+            770.64599609375
+          ],
+          "page": 4,
+          "span": [0, 92]
+        }
+      ],
+      "text": "History, Processing and Quality Enhancement of Traditional Egyptian Kariesh Cheese: A Review",
+      "type": "page-header"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.6400032043457, 694.425048828125, 304.21600341796875,
+            729.6895141601562
+          ],
+          "page": 4,
+          "span": [0, 145]
+        }
+      ],
+      "text": "Attenuated lactic acid bacteria either heat-shocked or freeze-shocked have been used to accelerate the ripening of many cheese varieties [23-29].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.53343200683594, 454.2662353515625, 306.40325927734375,
+            693.4783325195312
+          ],
+          "page": 4,
+          "span": [0, 1093]
+        }
+      ],
+      "text": "Attenuated bacteria have been used instead of live bacteria to decrease the acid production. It succeeded to improve the Kariesh cheese quality in the first part of this study by adding sodium citrate and attenuated lactococci, especially freeze shocked Lactococcus diacetylactis [30]. Addition of attenuated Lactobacillus bulgaricus or Streptococcus thermophilus caused a significant (p<0.05) increase of soluble nitrogen, soluble tyrosine and soluble tryptophan, while it decreased the TVFA and scores of Kariesh cheese. Cheeses made with L. bulgaricus had higher proteolysis indices and lower TVFA than those of cheese made with S. thermophilus. Combinations of Lactococcus diacetylactis and S. thermophilus or L. bulgaricus increased cheese acceptability. Kariesh cheese made with combinations of L. diacetylactis and S. thermophilus either heat or freeze-shocked was the most acceptable cheese. The pickling period could be shortened by 33% without any effect on cheese acceptability or quality as well as shortening the manufacture time to minimize the possibility of contamination [30].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.38084030151367, 346.7600402832031, 305.9290466308594,
+            453.7657470703125
+          ],
+          "page": 4,
+          "span": [0, 527]
+        }
+      ],
+      "text": "Twelve different concentrations of ethanol extract from the plants were prepared for determination of the minimal inhibitory concentration. Cayenne and green pepper extracts showed the highest activity followed by dill and parsley against S. aureus. Addition of cayenne or green pepper to Kariesh cheese during manufacture revealed that both spices were able to reduce the S. aureus population, to an undetectable level within the first and second days of storage. A lot of study, about the effect of combining plant materials.",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.647621154785156, 118.5247802734375, 305.0152282714844,
+            345.88494873046875
+          ],
+          "page": 4,
+          "span": [0, 1047]
+        }
+      ],
+      "text": "on the microbiological quality of ready-to-eat Kariesh cheese, the total bacterial count, coliform count, and yeast and moulds counts, were determined. It has been found that addition of plant materials to Kariesh cheese reduced the total bacterial and coliform populations. All concentrations of cayenne, green pepper, dill, and parsley (9%) completely reduced the yeast count within 2 hours. Cayenne and green pepper entirely reduced the mold count within 2 days, whereas parsley and dill were found to be less effective. Kariesh cheese prepared with 1% cayenne pepper and 3% and 6% each of green pepper, dill, and parsley were found strongly acceptable to the consumer and considered the most preferable type. Therefore, this study revealed that pepper, parsley, and dill exhibited antibacterial activity against natural microflora, coliforms, yeast and molds, and S. aureus in Kariesh cheese, and the addition of these plants is acceptable to the consumer and may contribute to the development of new and safe varieties of Kariesh cheese [31].",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            55.91926193237305, 75.7496337890625, 281.05291748046875, 102.2578125
+          ],
+          "page": 4,
+          "span": [0, 56]
+        }
+      ],
+      "text": "7. Kariesh Cheese Quality Attributes and Health Benefits",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            55.813720703125, 46.66937255859375, 302.6390075683594,
+            69.06549072265625
+          ],
+          "page": 4,
+          "span": [0, 103]
+        }
+      ],
+      "text": "The increasing demand for Kariesh by Egyptian consumers is mainly attributed to its low price [15, 17].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.319580078125, 598.5947265625, 559.7100219726562,
+            729.1486206054688
+          ],
+          "page": 4,
+          "span": [0, 626]
+        }
+      ],
+      "text": "Kariesh Cheese acceptability depends on its appearance and sensory properties (flavour, texture, and colour). Among these, flavour is the most notable attribute for the consumer [32]. Many modifications have been tried to improve cheese quality. Fahmi [33] used combined acid and rennet coagulation, reporting that it gave Kariesh cheese a smooth texture and was more appealing than cheese made by the traditional method. It has been reported that carbonyl compounds and the volatile acids are mainly responsible for the odour and flavour of cheese, so the addition of citrate salt improved the quality of Kariesh cheese [34].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.8833312988281, 47.25634765625, 563.0947265625, 597.046142578125
+          ],
+          "page": 4,
+          "span": [0, 2570]
+        }
+      ],
+      "text": "Several approaches have been proposed to improve therapeutic effect of Kariesh cheese. One of the most common approaches is to modify the manufacturing procedure in order to increase the Bifidobacterium [35]. The main therapeutic benefits of Bifidobacterium are: immune enhancement, prevention of diarrhoea disease and colon cancer, enhancement of immunity against intestinal infections, prevention of upper gastrointestinal tract diseases and hypercholesterolemia; improvement in lactose utilization; and stabilization of the gut mucosal barrier [36]. The number of viable Bifidobacterium taken orally is decreased due to action of processing and storage conditions of the food containing them and to the action of gastric juice and bile salts. Bifidobacterium has poor survivability in dairy products as they do not tolerate exposure to highly acidic and aerated media [37]. During in-vivo trial, microencapsulation techniques have been investigated to improve the viability of lactic acid bacteria when incorporated in dairy products. In this in-vivo process cells are retained within an encapsulating matrix or membrane. The most widely used encapsulating material is alginate, through a direct compression encapsulation, and rennet-gelled protein encapsulation. Rennet could be used to prepare water-insoluble microcapsules based on milk-proteins without significant loss of cell during the encapsulation process. For in-vitro trial, it was carried out that Microencapsulation protected the cells during incubation under simulated gastric conditions at low pH [38]. Preparing functional Kariesh cheese with encapsulated Bifidobacterium adolescentis ATCC 15704, made with rennet-gelled of milk proteins, is done to evaluate the survival of encapsulated cultures under simulated gastrointestinal conditions and to determine any possible change of encapsulated Bifidobacterium and organic acids in Kariesh cheese during the storage period. Microencapsulation in protein milk micro particles successfully improved the survival of B. adolescentis ATCC 15704 in bile solutions, and protected the B. adolescentis ATCC 15704 in the gastrointestinal tract. In addition, the microencapsulation significantly increased the survival of B. adolescentis ATCC 15704 in Kariesh cheese during cold storage. The numbers of B. adolescentis ATCC 15704 in encapsulated state were 8.12 log CFU/g at the end of two weeks of cold storage. This viable cell number was higher than that recommended by the International Dairy Federation (107 CFU/g), indicating that the high initial number of",
+      "type": "paragraph"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            221.8981170654297, 760.9163208007812, 389.36029052734375,
+            770.64599609375
+          ],
+          "page": 5,
+          "span": [0, 43]
+        }
+      ],
+      "text": "Food Science and Technology 1(1): 1-6, 2013",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            546.8800659179688, 760.795166015625, 554.9781494140625,
+            770.64599609375
+          ],
+          "page": 5,
+          "span": [0, 1]
+        }
+      ],
+      "text": "5",
+      "type": "page-header"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.498687744140625, 670.327880859375, 304.4392395019531,
+            729.6621704101562
+          ],
+          "page": 5,
+          "span": [0, 243]
+        }
+      ],
+      "text": "probiotic could provide the recommended number in the final product. Moreover, it can be assessed that the use of milk-proteins in microencapsulation of B. adolescentis ATCC 15704 could increase the acetic and lactic acids during storage [19].",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.497657775878906, 478.90557861328125, 304.70062255859375,
+            669.4554443359375
+          ],
+          "page": 5,
+          "span": [0, 885]
+        }
+      ],
+      "text": "Kariesh cheese is full of vitamins and minerals-iron, calcium, zinc and selenium that help protecting bones, body and health. It is one of the favorites for gym goers and body builders as it is low in fat and high in the right protein for lean muscle growth-casein. It is one of the best non-meat sources of protein around. The high protein content of Kariesh cheese and its high casein content make it a high satiety food so it reduces hunger for a long time. So it is a beneficial food for weight loss. Calcium in Kariesh cheese is important not only for building strong bones, but also for maintaining normal blood pressure. It is safe to eat during pregnancy. Each 100 g of kariesh cheese can provide children (1-8 y) with 80.14-128.22 % of their calcium needs while, for adults, the % is differ according to the age. It provides them from 49.32% (9-18 y) to 64.11% (19-50 y) [20].",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            56.251609802246094, 442.59576416015625, 141.0352325439453,
+            458.138427734375
+          ],
+          "page": 5,
+          "span": [0, 13]
+        }
+      ],
+      "text": "8. Conclusion",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            56.631011962890625, 123.64898681640625, 304.56634521484375,
+            434.2733154296875
+          ],
+          "page": 5,
+          "span": [0, 1502]
+        }
+      ],
+      "text": "Kariesh cheese origin goes back to the Pharaonic period 3200 B.C. to 332 B.C., it's made from defatted or skims cow or buffalo milk or a mixture of both, also it can be produced from the fermented milk, Laban Khad, or it is partially dehydrated variant.Recently, the increasing demand by Egyptian consumers is mainly attributed to its high protein content and low price. The production of Kariesh cheese by addition of hydrocolloids had a profound influence on its chemical composition, yield, rheological and sensory characteristics. Addition of hydrocolloids increased cheese moisture content and decreased hardness, protein, salt and ash content. It is recommended to use and implement immediate regulatory measures like good manufacturing practices as well as distribution and retail storage practices for ensuring microbiological safety of kariesh cheese. Kariesh cheese is one of the best non-meat sources of protein, full of vitamins and minerals-iron, calcium, zinc and selenium that help protecting bones, body and health. The high protein content of Kariesh cheese and its high casein content make it a high satiety food so it reduces hunger for a long time, so it is a beneficial food for weight loss. Calcium in Kariesh cheese is important not only for building strong bones, but also for maintaining normal blood pressure. It is safe to eat during pregnancy. Nowadays, Kariesh cheese is a promising food in the avoidance of health problems associated with fat, particularly for old people.",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            56.123802185058594, 87.67315673828125, 176.0640106201172,
+            102.48919677734375
+          ],
+          "page": 5,
+          "span": [0, 16]
+        }
+      ],
+      "text": "Acknowledgements",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            55.92235565185547, 56.64776611328125, 301.54254150390625,
+            79.23687744140625
+          ],
+          "page": 5,
+          "span": [0, 108]
+        }
+      ],
+      "text": "The authors are very grateful to Dr Giles O'Donovan for his technical advice in chemical analysis and useful",
+      "type": "paragraph"
+    },
+    {
+      "name": "text",
+      "prov": [
+        {
+          "bbox": [
+            310.8717041015625, 718.5855102539062, 387.09259033203125,
+            729.571044921875
+          ],
+          "page": 5,
+          "span": [0, 16]
+        }
+      ],
+      "text": "recommendations.",
+      "type": "paragraph"
+    },
+    {
+      "name": "subtitle-level-1",
+      "prov": [
+        {
+          "bbox": [
+            310.4327697753906, 665.8380737304688, 408.6324462890625,
+            681.0257568359375
+          ],
+          "page": 5,
+          "span": [0, 10]
+        }
+      ],
+      "text": "REFERENCES",
+      "type": "subtitle-level-1"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.8558654785156, 631.047119140625, 557.8564453125,
+            660.946533203125
+          ],
+          "page": 5,
+          "span": [0, 125]
+        }
+      ],
+      "text": "[1] J. A. Phelan, J. Renaud, P. F. Fox. Cheese: Chemistry, Physics and Microbiology, Chapman & Hall Publishers, London, 1993.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.0775451660156, 592.9365234375, 557.2887573242188,
+            622.6741943359375
+          ],
+          "page": 5,
+          "span": [0, 156]
+        }
+      ],
+      "text": "[2] N. A. Abou-Zeid. New type of Domiati cheese of potential benefit to people with high blood cholesterol, Journal of Dairy Research, Vol. 59, 89-94, 1992.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.12725830078125, 555.0458984375, 556.7051391601562,
+            584.727294921875
+          ],
+          "page": 5,
+          "span": [0, 130]
+        }
+      ],
+      "text": "[3] S. A. Abou-Donia, M. A. El-Soda. Egyptian soft pickeled ripened mish cheese, Indian Journal Dairy Science, Vol. 39, 1-5, 1986.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.7153015136719, 518.10986328125, 555.9443969726562,
+            547.680908203125
+          ],
+          "page": 5,
+          "span": [0, 135]
+        }
+      ],
+      "text": "[4] S. A. Abou-Donia. Egyptian fresh fermented milk products. New Zealand Journal of Dairy Science and Technology, Vol. 19, 7-18, 1984.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.98016357421875, 490.02008056640625, 555.7183227539062,
+            509.7700500488281
+          ],
+          "page": 5,
+          "span": [0, 98]
+        }
+      ],
+      "text": "[5] S. A. Abou-Donia. Feta and Related Cheese. Ellis Horwood Publishers Ltd Hemel Hempstead, 1991.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.179443359375, 462.0423278808594, 555.0264892578125,
+            481.5223693847656
+          ],
+          "page": 5,
+          "span": [0, 107]
+        }
+      ],
+      "text": "[6] S. A. Abou-Donia. A Colour Guide to Cheese and Fermented Milks. Champan& Hall Publishers, London, 1995.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.0152587890625, 423.92578125, 557.0674438476562,
+            453.59173583984375
+          ],
+          "page": 5,
+          "span": [0, 168]
+        }
+      ],
+      "text": "[7] S.A. Abou-Donia. Geographical distribution and historical development of Ancient Egyptian dairy products. Egyptian Journal of Dairy Science, Vol. 27, 359-368, 1999a",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.1114501953125, 376.0105895996094, 558.13671875,
+            415.5538635253906
+          ],
+          "page": 5,
+          "span": [0, 207]
+        }
+      ],
+      "text": "[8] S. A. Abou-Donia. Importance of Fermented Milks and Related Cheese, Egyptian Diet. Proceedings of the Alexandria Symposium on Starter Cultures and their Use in Dairy Industry, Alexandria, 108-114, 1999b.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.9137268066406, 348.98223876953125, 555.8089599609375,
+            367.98846435546875
+          ],
+          "page": 5,
+          "span": [0, 114]
+        }
+      ],
+      "text": "[9] S. M. El-Gendy. Fermented Foods of Egypt and the Middle East. Journal Food Protection, Vol. 46, 358-367, 1983.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.1964111328125, 321.1072998046875, 557.861572265625,
+            340.1035461425781
+          ],
+          "page": 5,
+          "span": [0, 93]
+        }
+      ],
+      "text": "[10] A. H. Fahmi. Studies on Kariesh Cheese. Ph.D. Thesis, Reading University, Reading, 1950.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.8111572265625, 273.1719970703125, 556.3287353515625,
+            312.2409973144531
+          ],
+          "page": 5,
+          "span": [0, 179]
+        }
+      ],
+      "text": "[11] S. A. Abou-Donia. Geographical distribution and historical development of ancient Egyptian dairy products, 7th Egyptian Conference for Dairy Science and Technology, 23, 1998.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.0730895996094, 244.95123291015625, 553.4617919921875,
+            264.3359069824219
+          ],
+          "page": 5,
+          "span": [0, 94]
+        }
+      ],
+      "text": "[12] H.Engelback. Introduction to Egyptian Archeology, EngelbackPublisher, Cairo, Egypt, 1946.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.5931396484375, 217.1207275390625, 556.0859985351562,
+            236.61561584472656
+          ],
+          "page": 5,
+          "span": [0, 101]
+        }
+      ],
+      "text": "[13] Z. H. Iskandar. Annales du Service des Antiques de Egypt. IskandarPublisher, Cairo, Egypt, 1942.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.7676696777344, 180.091796875, 555.2228393554688,
+            208.7785186767578
+          ],
+          "page": 5,
+          "span": [0, 135]
+        }
+      ],
+      "text": "[14] S. A. Abou-Donia. Egyptian Domiati soft white cheese. New Zealand Journal of Dairy Science and Technology, Vol. 21, 167-190, 1986.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.7176513671875, 142.0087890625, 555.0617065429688,
+            170.97854614257812
+          ],
+          "page": 5,
+          "span": [0, 164]
+        }
+      ],
+      "text": "[15] S. A. Abou-Donia. Origin, history and manufacturing process of Egyptian dairy products: An overview. Journal of Food Science and Technology,Vol. 5, 51-62, 2008",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.86517333984375, 104.11767578125, 554.1550903320312,
+            133.17855834960938
+          ],
+          "page": 5,
+          "span": [0, 145]
+        }
+      ],
+      "text": "[16] Y. A. Moustafa. Studies on some bacteriological and chemical properties of Kariesh cheese. MSc Thesis, University of Ain Shams, Cairo, 1967.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.6969299316406, 56.26019287109375, 556.045166015625,
+            95.378173828125
+          ],
+          "page": 5,
+          "span": [0, 194]
+        }
+      ],
+      "text": "[17] M. H.Abd-El-Salam, S. El-Shibiny, H. A. El-Alamy. Production of skim milk (Kariesh cheese) from ultra-filtered reconstituted milk. Egyptian Journal of Dairy Science, Vol. 12, 111-115, 1984.",
+      "type": "paragraph"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            56.237091064453125, 760.4218139648438, 63.45308303833008,
+            770.64599609375
+          ],
+          "page": 6,
+          "span": [0, 1]
+        }
+      ],
+      "text": "6",
+      "type": "page-header"
+    },
+    {
+      "name": "page-header",
+      "prov": [
+        {
+          "bbox": [
+            131.649658203125, 761.0489501953125, 484.41912841796875,
+            770.64599609375
+          ],
+          "page": 6,
+          "span": [0, 92]
+        }
+      ],
+      "text": "History, Processing and Quality Enhancement of Traditional Egyptian Kariesh Cheese: A Review",
+      "type": "page-header"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.696319580078125, 703.965576171875, 301.2979736328125,
+            730.8031005859375
+          ],
+          "page": 6,
+          "span": [0, 167]
+        }
+      ],
+      "text": "[18] M. M. Omar, A. I. El-Zayat. A study on the ripening of white pickled Brinza cheese made from ewe's milk. Molecular Nutrition Food Research, Vol. 31, 783-791, 1987",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.89900207519531, 661.8114013671875, 304.20379638671875,
+            697.7999877929688
+          ],
+          "page": 6,
+          "span": [0, 189]
+        }
+      ],
+      "text": "[19] M. Korish, A. M. AbdElhamid. Improving the textural properties of Egyptian Kariesh cheese by addition of hydrocolloids. International Journal of Dairy Technology,Vol. 65, 237-242, 2012",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.52524185180664, 616.1581420898438, 301.06048583984375,
+            654.960205078125
+          ],
+          "page": 6,
+          "span": [0, 212]
+        }
+      ],
+      "text": "[20] Z. A. A. Ghada, M. H. Alia, S. Soha Al, N. A. Magdy, F. S. Mohamed. Chemical, Nutritional and Microbiological Evaluation of Some Egyptian Soft Cheeses. Egyptian Journal Hospital MedicineVol. 17, 44-57, 2004.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            56.176246643066406, 578.151123046875, 303.1523132324219,
+            607.1969604492188
+          ],
+          "page": 6,
+          "span": [0, 171]
+        }
+      ],
+      "text": "[21] O. H. Baraheem, H. A. El-Shamy, W. M.Bakr,N. F. Gomaa. Bacteriological Quality of Some Dairy Products (Kariesh Cheese and Ice Cream). Alexandria, Vol. 82 No. 5, 2007.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.47134780883789, 530.1836547851562, 301.1760559082031,
+            569.39697265625
+          ],
+          "page": 6,
+          "span": [0, 228]
+        }
+      ],
+      "text": "[22] N. H. Ahmed, M.A. El-Soda, A. N. Hassan, Frank J. Improving the textural properties of an acid-coagulated (Kariesh) cheese using exopolysaccharide producing cultures. LWT Food Science and Technology, Vol. 38, 843-847, 2005.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.79806137084961, 492.07354736328125, 303.6209716796875,
+            521.6340942382812
+          ],
+          "page": 6,
+          "span": [0, 166]
+        }
+      ],
+      "text": "[23] M. E. Aly. Utilization of freeze-shocked lactobacilli for enhancing flavour development of Ras cheese. Egyptian Journal of Dairy Science, Vol. 18, 143-158, 1990.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.84827423095703, 455.0257568359375, 302.3347473144531,
+            483.8341369628906
+          ],
+          "page": 6,
+          "span": [0, 150]
+        }
+      ],
+      "text": "[24] Y. Ardo, H. L. Mansson. Heat treated lactobacilli develop desirable aroma in low-fat cheese. Scandinavian Dairy Information. Vol. 4, 38-40, 1990.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.723106384277344, 417.2689514160156, 301.03411865234375,
+            446.0341491699219
+          ],
+          "page": 6,
+          "span": [0, 159]
+        }
+      ],
+      "text": "[25] R. M. Badawi, M. K.Kebary. Accelerated ripening of cheese by partial lyophilized lactococci Menofiya Journal of Agriculture Research,Vol. 21, 63-81, 1996.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.340030670166016, 369.2347106933594, 303.9943542480469,
+            408.2341613769531
+          ],
+          "page": 6,
+          "span": [0, 222]
+        }
+      ],
+      "text": "[26] H. J.Barteles, M. E. Johnson, N. F. Olson. Accelerated ripening of Gouda cheese. II. Effect of freeze shocked Lactobacillus helveticus on proteolysis and flavour development. Milchwissenschaft, Vol. 42, 139-144, 1987.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            55.632049560546875, 321.3741455078125, 300.7896423339844,
+            360.3450622558594
+          ],
+          "page": 6,
+          "span": [0, 186]
+        }
+      ],
+      "text": "[27] H. El-Shafei, A. Hantira, N. Ezzat, M. El-Soda. Characteristics of Ras cheese made with freeze-shocked Pediococcushalophilus. LWT Food Science and Technology,Vol. 25, 438-441, 1992.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            56.48564910888672, 273.471923828125, 303.8058776855469,
+            312.5821838378906
+          ],
+          "page": 6,
+          "span": [0, 214]
+        }
+      ],
+      "text": "[28] F. A. Exterkate, G. J. C. M. Veer, J. De Stadhouders. Acceleration of the ripening process of Gouda cheese by using heat-treated mixed-strain starter cells. Netherland Milk Dairy JournalVol. 41, 307-320, 1987.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.21563720703125, 701.1527709960938, 556.2713012695312,
+            729.9392700195312
+          ],
+          "page": 6,
+          "span": [0, 178]
+        }
+      ],
+      "text": "[29] N. Ezzat, H. El-Shafei. Accelerated ripening of Ras cheese using freeze and heat-shocked. Lactobacillus helveticus. Egyptian Journal of Dairy Science,Vol. 19, 347-358, 1991.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.75958251953125, 653.1077270507812, 556.0850219726562,
+            692.1661987304688
+          ],
+          "page": 6,
+          "span": [0, 215]
+        }
+      ],
+      "text": "[30] O. M. Salem, A. I. Hamed, K. M. K. Kebary, A. S. El-Sisi. Influence of attenuated lactococci on the quality of Kariesh cheese made by direct acidification. Egyptian Journal Dairy Science,Vol. 25, 253-260, 1997.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.2579650878906, 595.0639038085938, 557.3161010742188,
+            644.4033203125
+          ],
+          "page": 6,
+          "span": [0, 246]
+        }
+      ],
+      "text": "[31] N. M. Wahba, A. S. Ahmed, Z. Z. Ebraheim. Antimicrobial effects of pepper, parsley, and dill and their roles in the microbiological quality enhancement of traditional Egyptian Kareish cheese. Foodborne Pathology DiseaseVol. 7, 411-418, 2010.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.859619140625, 537.0142822265625, 555.488525390625,
+            586.5513916015625
+          ],
+          "page": 6,
+          "span": [0, 288]
+        }
+      ],
+      "text": "[32] C. L. Randazzo, S. De Luca, A. Todaro, C. Restuccia, C. M. Lanza, G. Spagna, C. Caggia. Preliminary characterization of wild lactic acid bacteria and their abilities to produce flavour compounds in ripened model cheese system. Journal of Applied Microbiology Vol. 103, 427-435, 2007.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.9877014160156, 509.9423828125, 558.0250244140625,
+            528.8248901367188
+          ],
+          "page": 6,
+          "span": [0, 81]
+        }
+      ],
+      "text": "[33] A. H. Fahmi. Note: Kariesh cheese. Journal Agriculture Science,Vol. 3, 1960.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            309.7558288574219, 461.89794921875, 557.66552734375,
+            500.98785400390625
+          ],
+          "page": 6,
+          "span": [0, 221]
+        }
+      ],
+      "text": "[34] A. E. Abou-Dawood,S. M. Abdou. The effect of adding sodium citrate to skim milk on the quality, chemical changes yield of the cheese (Kariesh) during pickling. Egyptian Journal of Dairy Science,Vol. 1, 141-147, 1973.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.56903076171875, 403.97113037109375, 557.0814208984375,
+            453.2249755859375
+          ],
+          "page": 6,
+          "span": [0, 272]
+        }
+      ],
+      "text": "[35] T. M. El-Nemr, S. A.Awad, B.Gehan, J. R.Jjuuko (2007) Utilization of oligosaccharides from sweet lupin (Lupinustermis) as a prebiotic into kariesh cheese analog, Proceeding of the 10th Egyptian conference for Dairy Science and Technology, Cairo, Egypt, 377-390, 2007.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.6224365234375, 356.2231140136719, 556.6189575195312,
+            395.3819885253906
+          ],
+          "page": 6,
+          "span": [0, 203]
+        }
+      ],
+      "text": "[36] K. Kailasapathy, J. Chin. Survival and therapeutic potential of probiotic organisms with reference to Lactobacillus acidophilus and Bifidobacterium spp. Immunology Cell Biology,Vol. 78, 80-88, 2000.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.9293518066406, 318.2969665527344, 557.8281860351562,
+            347.61871337890625
+          ],
+          "page": 6,
+          "span": [0, 168]
+        }
+      ],
+      "text": "[37] P. Muthukumarasamy, P. W. Allan,A. R. Holley. Stability of Lactobacillus reuteri in different types of microcapsules. Journal of Food Science,Vol. 71, 20-24, 2006.",
+      "type": "paragraph"
+    },
+    {
+      "name": "list-item",
+      "prov": [
+        {
+          "bbox": [
+            310.42254638671875, 281.3172607421875, 556.4970092773438,
+            309.8187255859375
+          ],
+          "page": 6,
+          "span": [0, 168]
+        }
+      ],
+      "text": "[38] T. Heidebach, P. Först, U. Kulozik. Microencapsulation of probiotic cells by means of rennet-gelation of milk proteins. Food Hydrocolloids,Vol. 23, 1670-1677, 2009",
+      "type": "paragraph"
+    }
+  ],
+  "page-dimensions": [
+    { "height": 807.96002, "page": 1, "width": 595.32001 },
+    { "height": 807.96002, "page": 2, "width": 595.32001 },
+    { "height": 807.96002, "page": 3, "width": 595.32001 },
+    { "height": 807.96002, "page": 4, "width": 595.32001 },
+    { "height": 807.96002, "page": 5, "width": 595.32001 },
+    { "height": 807.96002, "page": 6, "width": 595.32001 }
+  ],
+  "page-footers": [],
+  "page-headers": [],
+  "references": [],
+  "tables": [
+    {
+      "#-cols": 11,
+      "#-rows": 9,
+      "cells": [],
+      "confidence": 0.9800000190734863,
+      "created_by": "high_conf_pred",
+      "data": [
+        [
+          {
+            "bbox": null,
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 0]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": null,
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 1]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": [
+              129.83999633789062, 246.5850067138672, 158.13018798828125,
+              254.76600646972656
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 2]],
+            "text": "Protein",
+            "type": ""
+          },
+          {
+            "bbox": [
+              183.72000122070312, 246.5850067138672, 197.48989868164062,
+              254.76600646972656
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 3]],
+            "text": "Fat",
+            "type": ""
+          },
+          {
+            "bbox": [
+              223.55999755859375, 246.5850067138672, 250.28970336914062,
+              254.76600646972656
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 4]],
+            "text": "Sugars",
+            "type": ""
+          },
+          {
+            "bbox": [
+              267.239990234375, 246.5850067138672, 297.4501647949219,
+              254.76600646972656
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 5]],
+            "text": "Lactose",
+            "type": ""
+          },
+          {
+            "bbox": [
+              320.1600036621094, 246.5850067138672, 336.9299011230469,
+              254.76600646972656
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 6]],
+            "text": "Ash",
+            "type": ""
+          },
+          {
+            "bbox": [
+              357.8399963378906, 246.5850067138672, 392.61029052734375,
+              254.76600646972656
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 7]],
+            "text": "Moisture",
+            "type": ""
+          },
+          {
+            "bbox": [
+              406.55999755859375, 246.5850067138672, 446.010009765625,
+              254.76600646972656
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 8]],
+            "text": "Ca (mg%)",
+            "type": ""
+          },
+          {
+            "bbox": [
+              464.3999938964844, 246.5850067138672, 498.9300842285156,
+              254.76600646972656
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 9]],
+            "text": "P (mg%)",
+            "type": ""
+          },
+          {
+            "bbox": [
+              518.1599731445312, 246.5850067138672, 537.9298706054688,
+              254.76600646972656
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 0,
+            "row-header": false,
+            "row-span": [0, 1],
+            "spans": [[0, 10]],
+            "text": "Ca/P",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": [
+              69.5999984741211, 216.10499572753906, 99.81289672851562,
+              224.28599548339844
+            ],
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 0]],
+            "text": "Kariesh",
+            "type": ""
+          },
+          {
+            "bbox": [
+              107.4000015258789, 226.3050079345703, 117.6898422241211,
+              234.4860076904297
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 1]],
+            "text": "M",
+            "type": ""
+          },
+          {
+            "bbox": [
+              126.83999633789062, 226.3050079345703, 161.0102996826172,
+              234.4860076904297
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 2]],
+            "text": "20.0±1.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              175.8000030517578, 226.3050079345703, 205.5301055908203,
+              234.4860076904297
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 3]],
+            "text": "3.9±1.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              222, 226.3050079345703, 251.7301025390625, 234.4860076904297
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 4]],
+            "text": "5.4±0.4",
+            "type": ""
+          },
+          {
+            "bbox": [
+              267.4800109863281, 226.3050079345703, 297.2101135253906,
+              234.4860076904297
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 5]],
+            "text": "2.0±0.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              313.67999267578125, 226.3050079345703, 343.41009521484375,
+              234.4860076904297
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 6]],
+            "text": "1.8±0.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              358.0799865722656, 226.3050079345703, 392.2498779296875,
+              234.4860076904297
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 7]],
+            "text": "69.0±1.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              404.760009765625, 226.3050079345703, 447.9299011230469,
+              234.4860076904297
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 8]],
+            "text": "641.1±49.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              460.0799865722656, 226.3050079345703, 503.2498779296875,
+              234.4860076904297
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 9]],
+            "text": "431.2±37.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              513.1199951171875, 226.3050079345703, 542.85009765625,
+              234.4860076904297
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 1,
+            "row-header": false,
+            "row-span": [1, 2],
+            "spans": [[1, 10]],
+            "text": "1.5±0.1",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": null,
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 0]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": [
+              108.4800033569336, 205.90499877929688, 116.7300033569336,
+              214.08599853515625
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 1]],
+            "text": "R",
+            "type": ""
+          },
+          {
+            "bbox": [
+              125.63999938964844, 205.90499877929688, 162.3302001953125,
+              214.08599853515625
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 2]],
+            "text": "17.7-22.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              176.75999450683594, 205.90499877929688, 204.4498748779297,
+              214.08599853515625
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 3]],
+            "text": "2.2-5.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              223.0800018310547, 205.90499877929688, 250.76988220214844,
+              214.08599853515625
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 4]],
+            "text": "4.5-6.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              268.55999755859375, 205.90499877929688, 296.2498779296875,
+              214.08599853515625
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 5]],
+            "text": "1.6-2.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              314.6400146484375, 205.90499877929688, 342.33026123046875,
+              214.08599853515625
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 6]],
+            "text": "1.0-2.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              356.8800048828125, 205.90499877929688, 393.56982421875,
+              214.08599853515625
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 7]],
+            "text": "64.8-71.7",
+            "type": ""
+          },
+          {
+            "bbox": [
+              403.44000244140625, 205.90499877929688, 449.2501525878906,
+              214.08599853515625
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 8]],
+            "text": "565.0-728.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              458.760009765625, 205.90499877929688, 504.5697937011719,
+              214.08599853515625
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 9]],
+            "text": "364.0-497.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              514.2000122070312, 205.90499877929688, 541.8903198242188,
+              214.08599853515625
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 2,
+            "row-header": false,
+            "row-span": [2, 3],
+            "spans": [[2, 10]],
+            "text": "1.2-1.8",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": [
+              68.76020050048828, 175.4250030517578, 100.53009796142578,
+              183.6060028076172
+            ],
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 0]],
+            "text": "Domiati",
+            "type": ""
+          },
+          {
+            "bbox": [
+              107.4000015258789, 185.5050048828125, 117.6898422241211,
+              193.68600463867188
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 1]],
+            "text": "M",
+            "type": ""
+          },
+          {
+            "bbox": [
+              129.1199951171875, 185.5050048828125, 158.85009765625,
+              193.68600463867188
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 2]],
+            "text": "7.8±0.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              173.52000427246094, 185.5050048828125, 207.68991088867188,
+              193.68600463867188
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 3]],
+            "text": "24.6±1.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              222, 185.5050048828125, 251.7301025390625, 193.68600463867188
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 4]],
+            "text": "4.1±0.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              267.4800109863281, 185.5050048828125, 297.2101135253906,
+              193.68600463867188
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 5]],
+            "text": "1.5±0.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              313.67999267578125, 185.5050048828125, 343.41009521484375,
+              193.68600463867188
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 6]],
+            "text": "3.9±0.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              358.0799865722656, 185.5050048828125, 392.2498779296875,
+              193.68600463867188
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 7]],
+            "text": "59.6±1.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              404.760009765625, 185.5050048828125, 447.9299011230469,
+              193.68600463867188
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 8]],
+            "text": "318.2±38.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              460.0799865722656, 185.5050048828125, 503.2498779296875,
+              193.68600463867188
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 9]],
+            "text": "235.6±36.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              513.1199951171875, 185.5050048828125, 542.85009765625,
+              193.68600463867188
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 3,
+            "row-header": false,
+            "row-span": [3, 4],
+            "spans": [[3, 10]],
+            "text": "1.4±0.2",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": null,
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 0]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": [
+              108.4800033569336, 165.22500610351562, 116.7300033569336,
+              173.406005859375
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 1]],
+            "text": "R",
+            "type": ""
+          },
+          {
+            "bbox": [
+              130.0800018310547, 165.22500610351562, 157.76988220214844,
+              173.406005859375
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 2]],
+            "text": "6.7-9.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              172.32000732421875, 165.22500610351562, 209.0102081298828,
+              173.406005859375
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 3]],
+            "text": "21.9-28.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              223.0800018310547, 165.22500610351562, 250.76988220214844,
+              173.406005859375
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 4]],
+            "text": "3.0-5.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              268.55999755859375, 165.22500610351562, 296.2498779296875,
+              173.406005859375
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 5]],
+            "text": "1.0-1.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              314.6400146484375, 165.22500610351562, 342.33026123046875,
+              173.406005859375
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 6]],
+            "text": "3.0-4.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              356.8800048828125, 165.22500610351562, 393.56982421875,
+              173.406005859375
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 7]],
+            "text": "56.6-62.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              403.44000244140625, 165.22500610351562, 449.2501525878906,
+              173.406005859375
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 8]],
+            "text": "257.0-391.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              458.760009765625, 165.22500610351562, 504.5697937011719,
+              173.406005859375
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 9]],
+            "text": "179.0-286.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              514.2000122070312, 165.22500610351562, 541.8903198242188,
+              173.406005859375
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 4,
+            "row-header": false,
+            "row-span": [4, 5],
+            "spans": [[4, 10]],
+            "text": "1.1-1.8",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": [
+              75.83979797363281, 134.7449951171875, 93.56990051269531,
+              142.92599487304688
+            ],
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 0]],
+            "text": "Feta",
+            "type": ""
+          },
+          {
+            "bbox": [
+              107.4000015258789, 144.8249969482422, 117.6898422241211,
+              153.00599670410156
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 1]],
+            "text": "M",
+            "type": ""
+          },
+          {
+            "bbox": [
+              126.83999633789062, 144.8249969482422, 161.0102996826172,
+              153.00599670410156
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 2]],
+            "text": "11.1±0.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              173.52000427246094, 144.8249969482422, 207.68991088867188,
+              153.00599670410156
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 3]],
+            "text": "13.6±1.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              222, 144.8249969482422, 251.7301025390625, 153.00599670410156
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 4]],
+            "text": "7.2±1.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              267.4800109863281, 144.8249969482422, 297.2101135253906,
+              153.00599670410156
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 5]],
+            "text": "3.2±0.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              313.67999267578125, 144.8249969482422, 343.41009521484375,
+              153.00599670410156
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 6]],
+            "text": "6.4±0.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              358.0799865722656, 144.8249969482422, 392.2498779296875,
+              153.00599670410156
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 7]],
+            "text": "61.6±2.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              404.760009765625, 144.8249969482422, 447.9299011230469,
+              153.00599670410156
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 8]],
+            "text": "541.5±46.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              460.0799865722656, 144.8249969482422, 503.2498779296875,
+              153.00599670410156
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 9]],
+            "text": "342.9±40.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              513.1199951171875, 144.8249969482422, 542.85009765625,
+              153.00599670410156
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 5,
+            "row-header": false,
+            "row-span": [5, 6],
+            "spans": [[5, 10]],
+            "text": "1.6±0.2",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": null,
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 0]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": [
+              108.4800033569336, 124.54501342773438, 116.7300033569336,
+              132.7259979248047
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 1]],
+            "text": "R",
+            "type": ""
+          },
+          {
+            "bbox": [
+              127.80000305175781, 124.54501342773438, 160.0499725341797,
+              132.7259979248047
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 2]],
+            "text": "9.9-12.7",
+            "type": ""
+          },
+          {
+            "bbox": [
+              172.32000732421875, 124.54501342773438, 209.0102081298828,
+              132.7259979248047
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 3]],
+            "text": "11.9-15.5",
+            "type": ""
+          },
+          {
+            "bbox": [
+              220.8000030517578, 124.54501342773438, 253.0499725341797,
+              132.7259979248047
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 4]],
+            "text": "4.4-11.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              268.55999755859375, 124.54501342773438, 296.2498779296875,
+              132.7259979248047
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 5]],
+            "text": "2.1-4.1",
+            "type": ""
+          },
+          {
+            "bbox": [
+              314.6400146484375, 124.54501342773438, 342.33026123046875,
+              132.7259979248047
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 6]],
+            "text": "5.2-7.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              356.8800048828125, 124.54501342773438, 393.56982421875,
+              132.7259979248047
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 7]],
+            "text": "57.0-64.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              403.44000244140625, 124.54501342773438, 449.2501525878906,
+              132.7259979248047
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 8]],
+            "text": "470.0-612.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              458.760009765625, 124.54501342773438, 504.5697937011719,
+              132.7259979248047
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 9]],
+            "text": "276.0-400.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              514.2000122070312, 124.54501342773438, 541.8903198242188,
+              132.7259979248047
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 6,
+            "row-header": false,
+            "row-span": [6, 7],
+            "spans": [[6, 10]],
+            "text": "1.3-2.1",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": [
+              71.03980255126953, 93.94509887695312, 98.2468032836914,
+              102.1260986328125
+            ],
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 0]],
+            "text": "Domty",
+            "type": ""
+          },
+          {
+            "bbox": [
+              107.4000015258789, 104.1449966430664, 117.6898422241211,
+              112.32599639892578
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 1]],
+            "text": "M",
+            "type": ""
+          },
+          {
+            "bbox": [
+              126.83999633789062, 104.1449966430664, 161.0102996826172,
+              112.32599639892578
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 2]],
+            "text": "12.8±1.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              173.52000427246094, 104.1449966430664, 207.68991088867188,
+              112.32599639892578
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 3]],
+            "text": "15.0±1.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              222, 104.1449966430664, 251.7301025390625, 112.32599639892578
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 4]],
+            "text": "4.9±0.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              267.4800109863281, 104.1449966430664, 297.2101135253906,
+              112.32599639892578
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 5]],
+            "text": "1.8±0.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              313.67999267578125, 104.1449966430664, 343.41009521484375,
+              112.32599639892578
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 6]],
+            "text": "5.0±0.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              358.0799865722656, 104.1449966430664, 392.2498779296875,
+              112.32599639892578
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 7]],
+            "text": "62.2±1.8",
+            "type": ""
+          },
+          {
+            "bbox": [
+              404.760009765625, 104.1449966430664, 447.9299011230469,
+              112.32599639892578
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 8]],
+            "text": "367.2±37.3",
+            "type": ""
+          },
+          {
+            "bbox": [
+              460.0799865722656, 104.1449966430664, 503.2498779296875,
+              112.32599639892578
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 9]],
+            "text": "275.4±26.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              513.1199951171875, 104.1449966430664, 542.85009765625,
+              112.32599639892578
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 7,
+            "row-header": false,
+            "row-span": [7, 8],
+            "spans": [[7, 10]],
+            "text": "1.3±0.1",
+            "type": ""
+          }
+        ],
+        [
+          {
+            "bbox": null,
+            "col": 0,
+            "col-header": false,
+            "col-span": [0, 1],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 0]],
+            "text": "",
+            "type": ""
+          },
+          {
+            "bbox": [
+              108.4800033569336, 83.86500549316406, 116.7300033569336,
+              92.04600524902344
+            ],
+            "col": 1,
+            "col-header": false,
+            "col-span": [1, 2],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 1]],
+            "text": "R",
+            "type": ""
+          },
+          {
+            "bbox": [
+              125.63999938964844, 83.86500549316406, 162.3302001953125,
+              92.04600524902344
+            ],
+            "col": 2,
+            "col-header": false,
+            "col-span": [2, 3],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 2]],
+            "text": "10.8-15.6",
+            "type": ""
+          },
+          {
+            "bbox": [
+              172.32000732421875, 83.86500549316406, 209.0102081298828,
+              92.04600524902344
+            ],
+            "col": 3,
+            "col-header": false,
+            "col-span": [3, 4],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 3]],
+            "text": "11.9-16.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              223.0800018310547, 83.86500549316406, 250.76988220214844,
+              92.04600524902344
+            ],
+            "col": 4,
+            "col-header": false,
+            "col-span": [4, 5],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 4]],
+            "text": "3.8-5.9",
+            "type": ""
+          },
+          {
+            "bbox": [
+              268.55999755859375, 83.86500549316406, 296.2498779296875,
+              92.04600524902344
+            ],
+            "col": 5,
+            "col-header": false,
+            "col-span": [5, 6],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 5]],
+            "text": "1.6-2.1",
+            "type": ""
+          },
+          {
+            "bbox": [
+              314.6400146484375, 83.86500549316406, 342.33026123046875,
+              92.04600524902344
+            ],
+            "col": 6,
+            "col-header": false,
+            "col-span": [6, 7],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 6]],
+            "text": "3.9-6.2",
+            "type": ""
+          },
+          {
+            "bbox": [
+              356.8800048828125, 83.86500549316406, 393.56982421875,
+              92.04600524902344
+            ],
+            "col": 7,
+            "col-header": false,
+            "col-span": [7, 8],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 7]],
+            "text": "58.2-66.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              403.44000244140625, 83.86500549316406, 449.2501525878906,
+              92.04600524902344
+            ],
+            "col": 8,
+            "col-header": false,
+            "col-span": [8, 9],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 8]],
+            "text": "307.0-441.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              458.760009765625, 83.86500549316406, 504.5697937011719,
+              92.04600524902344
+            ],
+            "col": 9,
+            "col-header": false,
+            "col-span": [9, 10],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 9]],
+            "text": "235.0-314.0",
+            "type": ""
+          },
+          {
+            "bbox": [
+              514.2000122070312, 83.86500549316406, 541.8903198242188,
+              92.04600524902344
+            ],
+            "col": 10,
+            "col-header": false,
+            "col-span": [10, 11],
+            "row": 8,
+            "row-header": false,
+            "row-span": [8, 9],
+            "spans": [[8, 10]],
+            "text": "1.1-1.6",
+            "type": ""
+          }
+        ]
+      ],
+      "prov": [
+        {
+          "bbox": [
+            61.643795013427734, 72.68206787109375, 546.2496337890625,
+            257.5020751953125
+          ],
+          "page": 3,
+          "span": [0, 0]
+        }
+      ],
+      "text": "Table 1. Chemical composition (g/100g) of some soft Egyptian cheese (M=mean; R=range).",
+      "type": "table"
+    }
+  ],
+  "version": 1
+}
